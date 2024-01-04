@@ -10,8 +10,7 @@ I am currently a student studying at Singapore University of Technology and Desi
 * ✉️  You can contact me at [tehchonglin@gmail.com](mailto:tehchonglin@gmail.com)
 * 🧠  I'm learning Kotlin Multiplatform (Compose Multiplatform)
 * 🤝  I'm open to collaborating on Mobile Application Projects
-* ⚡  I love to read novels
-
+* ⚡  I love to read books (surprising? I know)
 ### Skills
 
 
